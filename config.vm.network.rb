@@ -1,0 +1,3 @@
+IP = "192.168.10.222"
+BRIDGE = "en0: Ethernet"
+NETMASK = "255.255.255.0"
